@@ -13,3 +13,6 @@ function overwriteBestCustomer(){
   bestCustomer = 'Kanye';
 }
 
+function leastFavoriteCustomer(){
+  
+}
